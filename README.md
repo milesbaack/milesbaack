@@ -19,7 +19,6 @@ I'm a freshman in College pursuing dual degrees in Computer Science and Applied 
 - Core programming concepts and data structures (Java)
 - Mathematical foundations for computer science 
 - Basic principles of cybersecurity
-- Fundamentals of mechanical engineering
 
 ### 🔭 Long Term Goals
 - Build projects that combine software and mechanical elements
