@@ -3,12 +3,6 @@
 ## About Me
 I'm a freshman in College pursuing dual degrees in Computer Science and Applied Mathematics. My passion lies at the intersection of software engineering, cybersecurity, and mechanical systems. I aspire to become an expert in developing solutions that seamlessly bridge our digital and physical worlds, ultimately changing the world for the better.
 
-### 🚀 Current Projects
-- Developing a video game in Java, entirely through fundamental programming - no game engines or frameworks
-  - Implementing core systems like graphics rendering, game loops, and collision detection
-  - Gain a deep understanding of game architecture
-  - Reinforce Java programming fundamentals
-
 ### 🎓 Education
 - EMT-B (I worked as an EMT during the pandemic, but decided to follow my dreams and become a developer)
 - Computer Science and Applied Mathematics Double Major
