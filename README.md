@@ -10,6 +10,7 @@ I'm a freshman in College pursuing dual degrees in Computer Science and Applied 
   - Reinforce Java programming fundamentals
 
 ### 🎓 Education
+- EMT-B (I worked as an EMT during the pandemic, but decided to follow my dreams and become a developer)
 - Computer Science and Applied Mathematics Double Major
 - Freshman Year Student
 - Exploring the fundamentals of programming, mathematics, and engineering principles
