@@ -4,11 +4,10 @@
 I am a fullstack Flutter Application Developer.
 
 ### Education
-- EMT-B (I worked as an EMT during the pandemic, but decided to follow my dreams and become a developer)
 - Computer Science Major
-  - Sophmore Year Student
+  - Jr Year Student
 
 ### Projects
-- Check out my public repo's for my projects!
-- I have some private one's which are hosting my employers codebase (yeah i know... LOL)
+- The Morning Hero https://apps.apple.com/us/app/the-morning-hero/id6749468446
+- FocusFlow https://github.com/milesbaack/FocusFlow
 
