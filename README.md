@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Miles Baack
 
 ## About Me
-I am a fullstack Flutter Application Developer.
+I am a Chief Technical Officer at a startup and a fullstack Application Developer.
 
 ### Education
 - Computer Science Major
