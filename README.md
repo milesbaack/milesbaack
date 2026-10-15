@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Miles Baack
 
 ## About Me
-I am a Chief Technical Officer at a startup and Software Engineer.
-
+I enjoy making stuff, hacking stuff, and helping people.
 ### Education
 - Computer Science Major
   - Jr Year Student
