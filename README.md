@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Miles Baack
 
 ## About Me
-I enjoy making stuff, hacking stuff, and helping people.
+I enjoy making stuff, hacking stuff, and helping people. I'm also kind of an ultramarathon runner.
 ### Education
 - California State University San Marcos
   - Bachelors of Computer Science with a Minor in Artificial Intelligence
